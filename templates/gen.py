@@ -16,4 +16,4 @@ path = {
 with open('tables.txt', 'r') as f:
 	template = Template(f.read().decode('utf-8'))
 	md = template.render(path).encode('utf-8')
-	pypandoc.convert(md, to='html', format='md', outputfile='tables.html', extra_args=['-s'])
+	pypandoc.convert(md, to='html', format='md', outputfile='tables.html', extra_args=['-s', '-c', 'main.css'])
