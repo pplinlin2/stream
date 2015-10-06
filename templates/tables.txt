@@ -43,6 +43,51 @@
 [wlbc20]: {{ path_wlbc }}/wlbc20.mp4
 
 # 嵌入式Linux底层系统开发阶段
+### 探寻嵌入式系统移植的世界
+1. [序言][porting1]
+2. [学习方法][porting2]
+3. [系统移植步骤简介][porting3]
+4. [交叉编译器简介][porting4]
+5. [交叉编译器的安装][porting5]
+6. [工具集合介绍1][porting6]
+7. [工具集合使用2][porting7]
+8. [环境搭建需求分析][porting8]
+9. [台式机移植环境搭建][porting9]
+10. [虚拟机安装双网卡及配置][porting10]
+11. [uboot环境变量使用][porting11]
+12. [uboot网络层配置][porting12]
+13. [uboot下的tftp服务的使用][porting13]
+14. [linux下tftp服务的搭建及测试][porting14]
+15. [uboot下nand命令使用总结][porting15]
+16. [uboot启动内核命令介绍][porting16]
+17. [uboot启动内核的条件分析][porting17]
+18. [ramdisk启动概述分析][porting18]
+19. [ramdisk文件系统部署演示][porting19]
+20. [NFS文件系统服务端配置][porting20]
+21. [nfs根文件系统测试][porting21]
+
+[porting1]: {{ path_porting }}/porting_base_0.mp4
+[porting2]: {{ path_porting }}/porting_base_1.mp4
+[porting3]: {{ path_porting }}/porting_base_2.mp4
+[porting4]: {{ path_porting }}/porting_base_3.mp4
+[porting5]: {{ path_porting }}/porting_base_4.mp4
+[porting6]: {{ path_porting }}/porting_base_5.mp4
+[porting7]: {{ path_porting }}/porting_base_6.mp4
+[porting8]: {{ path_porting }}/porting_base_7.mp4
+[porting9]: {{ path_porting }}/porting_base_8.mp4
+[porting10]: {{ path_porting }}/porting_base_9.mp4
+[porting11]: {{ path_porting }}/porting_base_10.mp4
+[porting12]: {{ path_porting }}/porting_base_11.mp4
+[porting13]: {{ path_porting }}/porting_base_12.mp4
+[porting14]: {{ path_porting }}/porting_base_13.mp4
+[porting15]: {{ path_porting }}/porting_base_14.mp4
+[porting16]: {{ path_porting }}/porting_base_15.mp4
+[porting17]: {{ path_porting }}/porting_base_16.mp4
+[porting18]: {{ path_porting }}/porting_base_17.mp4
+[porting19]: {{ path_porting }}/porting_base_18.mp4
+[porting20]: {{ path_porting }}/porting_base_19.mp4
+[porting21]: {{ path_porting }}/porting_base_20.mp4
+
 ### linux字符设备驱动初探
 1. [写在前面的话][driver1]
 2. [linux驱动介绍][driver2]
