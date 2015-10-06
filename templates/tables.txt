@@ -100,3 +100,18 @@
 [advanced9]: {{ path_advanced }}/2.34.mp4
 [advanced10]: {{ path_advanced }}/2.41.mp4
 [advanced11]: {{ path_advanced }}/2.42.mp4
+
+### linux下输入子系统
+1. [前言][input1]
+2. [input子系统（一）：三个重要的结构体的讲解][input2]
+3. [input子系统（二）：事件驱动evdev的讲解-1][input3]
+4. [input子系统（三）：事件驱动evdev的讲解-2][input4]
+5. [input子系统（四）：input设备驱动的讲解-1][input5]
+6. [input子系统（五）：input设备驱动的讲解-2][input6]
+
+[input1]: {{ path_input }}/1.qianyan.mp4
+[input2]: {{ path_input }}/2.inputzixitong.mp4
+[input3]: {{ path_input }}/3.input.mp4
+[input4]: {{ path_input }}/4.input.mp4
+[input5]: {{ path_input }}/5.input.mp4
+[input6]: {{ path_input }}/6.input.mp4
