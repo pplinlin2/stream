@@ -132,3 +132,28 @@
 [usb5]: {{ path_usb }}/usb5.mp4
 [usb6]: {{ path_usb }}/usb6.mp4
 [usb7]: {{ path_usb }}/usb7.mp4
+
+### linux下网卡设备驱动
+1. [PCI设备基础知识][wk1]
+2. [PCI设备驱动架构][wk2]
+3. [应用层网络编程回顾][wk3]
+4. [网络协议栈概述][wk4]
+5. [wireshark抓包分析网络协议栈][wk5]
+6. [dm9000驱动之platform驱动层分析][wk6]
+7. [dm9000驱动之probe函数分析][wk7]
+8. [dm9000驱动之open函数分析][wk8]
+9. [dm9000驱动之发送过程分析][wk9]
+10. [dm9000驱动之接收过程分析][wk10]
+11. [loopback虚拟网卡驱动分析][wk11]
+
+[wk1]: {{ path_wk }}/pci1.mp4
+[wk2]: {{ path_wk }}/pci2.mp4
+[wk3]: {{ path_wk }}/wk1.mp4
+[wk4]: {{ path_wk }}/wk2.mp4
+[wk5]: {{ path_wk }}/wk3.mp4
+[wk6]: {{ path_wk }}/wk4.mp4
+[wk7]: {{ path_wk }}/wk5.mp4
+[wk8]: {{ path_wk }}/wk6.mp4
+[wk9]: {{ path_wk }}/wk7.mp4
+[wk10]: {{ path_wk }}/wk8.mp4
+[wk11]: {{ path_wk }}/wk9.mp4
