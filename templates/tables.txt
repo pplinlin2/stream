@@ -1,0 +1,43 @@
+# 嵌入式linux应用开发阶段
+### 嵌入式Linux网络编程基础
+1. [网络编程基础以及wireshark的使用][wlbc1]
+2. [一个获取时间客户端的例子][wlbc2]
+3. [简单时间服务器的编写-1][wlbc3]
+4. [TCP三次握手四次挥手][wlbc4]
+5. [其他网络编程的基础知识][wlbc5]
+6. [TCP编程模型总结][wlbc6]
+7. [基于UDP的获取时间的客户服务器例子][wlbc7]
+8. [多客户端并发介绍以及sourceInsight的基本使用][wlbc8]
+9. [多进程并发服务器的例子][wlbc9]
+10. [IO复用介绍及select使用流程][wlbc10]
+11. [IO复用(select)的例子--上半部分][wlbc11]
+12. [IO复用(select)的例子--下半部分][wlbc12]
+13. [对select提高效率的第一种解决办法][wlbc13]
+14. [高并发服务器之epoll编程--上部分][wlbc14]
+15. [高并发服务器之epoll编程模型下部分以及网络编程的项目作业][wlbc15]
+16. [一个广播编程的例子][wlbc16]
+17. [一个组播编程的例子以及组播和广播的区别][wlbc17]
+18. [原始套接字的花花世界][wlbc18]
+19. [一个嵌入式linux项目的流程以及rshell的介绍][wlbc19]
+20. [rShell的客户服务器实现][wlbc20]
+
+[wlbc1]: {{ path_wlbc }}/wlbc1.mp4
+[wlbc2]: {{ path_wlbc }}/wlbc2.mp4
+[wlbc3]: {{ path_wlbc }}/wlbc3.mp4
+[wlbc4]: {{ path_wlbc }}/wlbc4.mp4
+[wlbc5]: {{ path_wlbc }}/wlbc5.mp4
+[wlbc6]: {{ path_wlbc }}/wlbc6.mp4
+[wlbc7]: {{ path_wlbc }}/wlbc7.mp4
+[wlbc8]: {{ path_wlbc }}/wlbc8.mp4
+[wlbc9]: {{ path_wlbc }}/wlbc9.mp4
+[wlbc10]: {{ path_wlbc }}/wlbc10.mp4
+[wlbc11]: {{ path_wlbc }}/wlbc11.mp4
+[wlbc12]: {{ path_wlbc }}/wlbc12.mp4
+[wlbc13]: {{ path_wlbc }}/wlbc13.mp4
+[wlbc14]: {{ path_wlbc }}/wlbc14.mp4
+[wlbc15]: {{ path_wlbc }}/wlbc15.mp4
+[wlbc16]: {{ path_wlbc }}/wlbc16.mp4
+[wlbc17]: {{ path_wlbc }}/wlbc17.mp4
+[wlbc18]: {{ path_wlbc }}/wlbc18.mp4
+[wlbc19]: {{ path_wlbc }}/wlbc19.mp4
+[wlbc20]: {{ path_wlbc }}/wlbc20.mp4
