@@ -115,3 +115,20 @@
 [input4]: {{ path_input }}/4.input.mp4
 [input5]: {{ path_input }}/5.input.mp4
 [input6]: {{ path_input }}/6.input.mp4
+
+### linux下usb驱动
+1. [usb基本概念概述][usb1]
+2. [usb controller介绍以及controller驱动移植方法][usb2]
+3. [usb描述符以及传输方式][usb3]
+4. [usb请求块以及提交方式][usb4]
+5. [usb鼠标驱动详解(一)][usb5]
+6. [usb鼠标驱动详解(二)][usb6]
+7. [usb鼠标驱动详解(三)][usb7]
+
+[usb1]: {{ path_usb }}/usb1.mp4
+[usb2]: {{ path_usb }}/usb2.mp4
+[usb3]: {{ path_usb }}/usb3.mp4
+[usb4]: {{ path_usb }}/usb4.mp4
+[usb5]: {{ path_usb }}/usb5.mp4
+[usb6]: {{ path_usb }}/usb6.mp4
+[usb7]: {{ path_usb }}/usb7.mp4
