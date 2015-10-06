@@ -150,7 +150,7 @@
 [porting20]: {{ path_porting }}/porting_base_19.mp4
 [porting21]: {{ path_porting }}/porting_base_20.mp4
 
-### Linux内核及文件系统制作Linux内核及文件系统制作
+### Linux内核及文件系统制作
 1. [Linux内核-内核启动参数][fs1]
 2. [Linux内核-根文件系统框架][fs2]
 3. [Linux内核-busybox简介][fs3]
