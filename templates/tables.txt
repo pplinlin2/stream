@@ -150,6 +150,55 @@
 [porting20]: {{ path_porting }}/porting_base_19.mp4
 [porting21]: {{ path_porting }}/porting_base_20.mp4
 
+### Linux内核及文件系统制作Linux内核及文件系统制作
+1. [Linux内核-内核启动参数][fs1]
+2. [Linux内核-根文件系统框架][fs2]
+3. [Linux内核-busybox简介][fs3]
+4. [Linux内核-启动脚本（上）][fs4]
+5. [Linux内核-启动脚本（下）.][fs5]
+6. [Linux内核-busybox编译][fs6]
+7. [Linux内核-busybox应用][fs7]
+8. [Linux内核-根文件系统完善][fs8]
+9. [Linux内核-常用嵌入式文件系统][fs9]
+10. [linux内核文件系统][fs10]
+11. [Linux内核-NFS文件系统介绍与应用][fs11]
+12. [Linux内核-initramfs文件系统介绍][fs12]
+13. [Linux内核-cramfs和squashfs介绍][fs13]
+14. [Linux内核-jffs2和yaffs2介绍][fs14]
+15. [Linux内核构建中文件系统选项介绍][fs15]
+16. [Linux内核构建中文件系统选项配置][fs16]
+17. [Linux内核-Cramfs文件系统的制作与使用][fs17]
+18. [Linux内核-squashfs文件系统的制作与使用][fs18]
+19. [Linux内核-jffs2文件系统的制作与使用][fs19]
+20. [Linux内核-yaffs2文件系统的制作与使用][fs20]
+21. [Linux内核-Flash分区与文件系统镜像烧录][fs21]
+22. [Linux内核-文件系统的挂载配置与选项][fs22]
+23. [Linux内核-选择与配置原则][fs23]
+
+[fs1]: {{ path_fs }}/nhwjjxtzz01.mp4
+[fs2]: {{ path_fs }}/nhwjjxtzz02.mp4
+[fs3]: {{ path_fs }}/nhwjjxtzz03.mp4
+[fs4]: {{ path_fs }}/nhwjjxtzz04.mp4
+[fs5]: {{ path_fs }}/nhwjjxtzz05.mp4
+[fs6]: {{ path_fs }}/nhwjjxtzz06.mp4
+[fs7]: {{ path_fs }}/nhwjjxtzz07.mp4
+[fs8]: {{ path_fs }}/nhwjjxtzz08.mp4
+[fs9]: {{ path_fs }}/nhwjjxtzz09.mp4
+[fs10]: {{ path_fs }}/nhwjjxtzz10.mp4
+[fs11]: {{ path_fs }}/nhwjjxtzz11.mp4
+[fs12]: {{ path_fs }}/nhwjjxtzz12.mp4
+[fs13]: {{ path_fs }}/nhwjjxtzz13.mp4
+[fs14]: {{ path_fs }}/nhwjjxtzz14.mp4
+[fs15]: {{ path_fs }}/nhwjjxtzz15.mp4
+[fs16]: {{ path_fs }}/nhwjjxtzz16.mp4
+[fs17]: {{ path_fs }}/nhwjjxtzz17.mp4
+[fs18]: {{ path_fs }}/nhwjjxtzz18.mp4
+[fs19]: {{ path_fs }}/nhwjjxtzz19.mp4
+[fs20]: {{ path_fs }}/nhwjjxtzz20.mp4
+[fs21]: {{ path_fs }}/nhwjjxtzz21.mp4
+[fs22]: {{ path_fs }}/nhwjjxtzz22.mp4
+[fs23]: {{ path_fs }}/nhwjjxtzz23.mp4
+
 ### linux字符设备驱动初探
 1. [写在前面的话][driver1]
 2. [linux驱动介绍][driver2]
