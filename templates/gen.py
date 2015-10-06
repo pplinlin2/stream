@@ -4,8 +4,9 @@ import pypandoc
 from jinja2 import Template
 
 path = {
-	'path_wlbc':   '../wlbc', 
-	'path_driver': '../linux_driver_basic', 
+	'path_wlbc':     '../wlbc', 
+	'path_driver':   '../linux_driver_basic', 
+	'path_advanced': '../linux_driver_advanced', 
 }
 
 with open('tables.txt', 'r') as f:

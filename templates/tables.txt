@@ -75,3 +75,28 @@
 [driver13]: {{ path_driver }}/linux_driver_basic_10.mp4
 [driver14]: {{ path_driver }}/linux_driver_basic_11.mp4
 [driver15]: {{ path_driver }}/linux_driver_basic_12.mp4
+
+### linux驱动策略及框架
+1. [linux内核同步和互斥（一）：信号量][advanced1]
+2. [linux内核同步和互斥（二）：自旋锁][advanced2]
+3. [驱动中的阻塞和唤醒（一）：应用程序的阻塞和唤醒][advanced3]
+4. [驱动中的阻塞和唤醒（二）：阻塞操作的底层实现分析][advanced4]
+5. [驱动中的阻塞和唤醒（三）：阻塞和唤醒的驱动实例][advanced5]
+6. [linux内存映射机制][advanced6]
+7. [linux进程虚拟地址空间管理机制][advanced7]
+8. [应用层mmap函数的使用方法][advanced8]
+9. [驱动中的mmap实现实例][advanced9]
+10. [platform驱动架构（一）：platform框架初探][advanced10]
+11. [platform驱动架构（二）：platform架构原理以及编程实例][advanced11]
+
+[advanced1]: {{ path_advanced }}/2.11.mp4
+[advanced2]: {{ path_advanced }}/2.12.mp4
+[advanced3]: {{ path_advanced }}/2.21.mp4
+[advanced4]: {{ path_advanced }}/2.22.mp4
+[advanced5]: {{ path_advanced }}/2.23.mp4
+[advanced6]: {{ path_advanced }}/2.31.mp4
+[advanced7]: {{ path_advanced }}/2.32.mp4
+[advanced8]: {{ path_advanced }}/2.33.mp4
+[advanced9]: {{ path_advanced }}/2.34.mp4
+[advanced10]: {{ path_advanced }}/2.41.mp4
+[advanced11]: {{ path_advanced }}/2.42.mp4
