@@ -1,0 +1,23 @@
+body{
+	background-color: #e2e2e2;
+	font-family: "Microsoft YaHei";
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 300;
+	color: #444;
+}
+
+h3 {
+	color: #95a5a6;
+	font-weight: 400;
+}
+
+a {
+	color: #3498db;
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+	color: #7b7b7b;
+}
