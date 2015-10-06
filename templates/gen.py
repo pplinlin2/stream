@@ -11,6 +11,7 @@ path = {
 	'path_usb':      '../usb', 
 	'path_wk':       '../wk', 
 	'path_porting':  '../porting_base', 
+	'path_line':     '../line', 
 }
 
 with open('tables.txt', 'r') as f:

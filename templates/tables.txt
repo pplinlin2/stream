@@ -1,4 +1,66 @@
 # 嵌入式linux应用开发阶段
+### Linux多线程编程
+1. [介绍][line1]
+2. [线程的概念][line2]
+3. [线程id][line3]
+4. [创造线程][line4]
+5. [主线程][line5]
+6. [线程状态和回收][line6]
+7. [线程退出][line7]
+8. [线程连接][line8]
+9. [线程取消][line9]
+10. [信号默认处理][line10]
+11. [信号处理][line11]
+12. [线程清理程序][line12]
+13. [线程同步的必要性][line13]
+14. [互斥量使用][line14]
+15. [读写锁][line15]
+16. [读写锁实例][line16]
+17. [条件变量][line17]
+18. [条件变量实例][line18]
+19. [一次性初始化][line19]
+20. [线程的分离属性][line20]
+21. [线程栈属性][line21]
+22. [线程同步属性][line22]
+23. [线程私有数据][line23]
+24. [线程与fork][line24]
+25. [多线程知识点回顾][line25]
+26. [tcp服务器的创建方法][line26]
+27. [简单tcp服务器][line27]
+28. [tcp多线程服务器][line28]
+29. [作业][line29]
+
+[line1]: {{ path_line }}/line0.mp4
+[line2]: {{ path_line }}/line1.mp4
+[line3]: {{ path_line }}/line2-1-1.mp4
+[line4]: {{ path_line }}/line2-1-2.mp4
+[line5]: {{ path_line }}/line2-2-1.mp4
+[line6]: {{ path_line }}/line2-2-2.mp4
+[line7]: {{ path_line }}/line3-1.mp4
+[line8]: {{ path_line }}/line3-2.mp4
+[line9]: {{ path_line }}/line3-3.mp4
+[line10]: {{ path_line }}/line3-4-1.mp4
+[line11]: {{ path_line }}/line3-4-2.mp4
+[line12]: {{ path_line }}/line3-5.mp4
+[line13]: {{ path_line }}/line4-1-1.mp4
+[line14]: {{ path_line }}/line4-1-2.mp4
+[line15]: {{ path_line }}/line4-2-1.mp4
+[line16]: {{ path_line }}/line4-2-2.mp4
+[line17]: {{ path_line }}/line4-3-1.mp4
+[line18]: {{ path_line }}/line4-3-2.mp4
+[line19]: {{ path_line }}/line5-1.mp4
+[line20]: {{ path_line }}/line5-2-1.mp4
+[line21]: {{ path_line }}/line5-2-2.mp4
+[line22]: {{ path_line }}/line5-3.mp4
+[line23]: {{ path_line }}/line5-4.mp4
+[line24]: {{ path_line }}/line5-5.mp4
+[line25]: {{ path_line }}/line6-1.mp4
+[line26]: {{ path_line }}/line6-2.mp4
+[line27]: {{ path_line }}/line6-3.mp4
+[line28]: {{ path_line }}/line6-4.mp4
+[line29]: {{ path_line }}/line7.mp4
+
+
 ### 嵌入式Linux网络编程基础
 1. [网络编程基础以及wireshark的使用][wlbc1]
 2. [一个获取时间客户端的例子][wlbc2]
