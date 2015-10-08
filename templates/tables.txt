@@ -155,7 +155,7 @@
 2. [Linux内核-根文件系统框架][fs2]
 3. [Linux内核-busybox简介][fs3]
 4. [Linux内核-启动脚本（上）][fs4]
-5. [Linux内核-启动脚本（下）.][fs5]
+5. [Linux内核-启动脚本（下）][fs5]
 6. [Linux内核-busybox编译][fs6]
 7. [Linux内核-busybox应用][fs7]
 8. [Linux内核-根文件系统完善][fs8]
@@ -313,3 +313,37 @@
 [wk9]: {{ path_wk }}/wk7.mp4
 [wk10]: {{ path_wk }}/wk8.mp4
 [wk11]: {{ path_wk }}/wk9.mp4
+
+# 项目及选修阶段
+### GNU工具简介
+1. [GNU开发环境基础1][toolchain1]
+2. [GNU开发环境基础2][toolchain2]
+3. [GNU开发环境基础3][toolchain3]
+4. [GNU开发环境基础4][toolchain4]
+5. [GNU开发环境基础_gcc编译1][toolchain5]
+6. [GNU开发环境基础_gcc编译2][toolchain6]
+7. [GNU开发环境基础_gcc编译3][toolchain7]
+8. [GNU开发环境基础_gdb][toolchain8]
+9. [GNU开发环境基础_Makefile1][toolchain9]
+10. [GNU开发环境基础_Makefile2][toolchain10]
+11. [GNU开发环境基础_Makefile3][toolchain11]
+12. [ GNU开发环境基础_Autotools1][toolchain12]
+13. [GNU开发环境基础_Autotools2][toolchain13]
+14. [GNU开发环境基础_Autotools3][toolchain14]
+15. [GNU开发环境基础_EclipseForLinux][toolchain15]
+
+[toolchain1]: {{ path_tool }}/1.mp4
+[toolchain2]: {{ path_tool }}/2.mp4
+[toolchain3]: {{ path_tool }}/3.mp4
+[toolchain4]: {{ path_tool }}/4.mp4
+[toolchain5]: {{ path_tool }}/5.mp4
+[toolchain6]: {{ path_tool }}/6.mp4
+[toolchain7]: {{ path_tool }}/7.mp4
+[toolchain8]: {{ path_tool }}/8.mp4
+[toolchain9]: {{ path_tool }}/9.mp4
+[toolchain10]: {{ path_tool }}/10.mp4
+[toolchain11]: {{ path_tool }}/11.mp4
+[toolchain12]: {{ path_tool }}/12.mp4
+[toolchain13]: {{ path_tool }}/13.mp4
+[toolchain14]: {{ path_tool }}/14.mp4
+[toolchain15]: {{ path_tool }}/15.mp4

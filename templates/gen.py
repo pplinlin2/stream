@@ -13,6 +13,7 @@ path = {
 	'path_input':    '../input', 
 	'path_usb':      '../usb', 
 	'path_wk':       '../wk', 
+	'path_tool':     '../toolchain', 
 }
 
 with open('tables.txt', 'r') as f:
