@@ -347,3 +347,36 @@
 [toolchain13]: {{ path_tool }}/13.mp4
 [toolchain14]: {{ path_tool }}/14.mp4
 [toolchain15]: {{ path_tool }}/15.mp4
+
+### Linux文件IO操作
+1. [Linux高级程序_IO操作1][io1]
+2. [Linux高级程序_IO操作2][io2]
+3. [Linux高级程序_IO操作3][io3]
+4. [Linux高级程序_IO操作4][io4]
+5. [Linux高级程序_IO操作5][io5]
+6. [Linux高级程序_IO操作6][io6]
+7. [Linux高级程序_IO操作7][io7]
+8. [Linux高级程序_IO操作8][io8]
+9. [Linux高级程序_IO操作9][io9]
+10. [Linux高级程序_IO操作_lock1][io10]
+11. [Linux高级程序_IO操作_lock2][io11]
+12. [Linux高级程序_IO操作_lock3][io12]
+13. [Linux高级程序_IO操作_dir1][io13]
+14. [Linux高级程序_IO操作_dir2][io14]
+15. [Linux高级程序_IO操作_dir3][io15]
+
+[io1]: {{ path_io }}/1.mp4
+[io2]: {{ path_io }}/2.mp4
+[io3]: {{ path_io }}/3.mp4
+[io4]: {{ path_io }}/4.mp4
+[io5]: {{ path_io }}/5.mp4
+[io6]: {{ path_io }}/6.mp4
+[io7]: {{ path_io }}/7.mp4
+[io8]: {{ path_io }}/8.mp4
+[io9]: {{ path_io }}/9.mp4
+[io10]: {{ path_io }}/10.mp4
+[io11]: {{ path_io }}/11.mp4
+[io12]: {{ path_io }}/12.mp4
+[io13]: {{ path_io }}/13.mp4
+[io14]: {{ path_io }}/14.mp4
+[io15]: {{ path_io }}/15.mp4

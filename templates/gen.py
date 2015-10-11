@@ -14,6 +14,7 @@ path = {
 	'path_usb':      '../usb', 
 	'path_wk':       '../wk', 
 	'path_tool':     '../toolchain', 
+	'path_io':       '../io', 
 }
 
 with open('tables.txt', 'r') as f:
