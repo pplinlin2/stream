@@ -104,6 +104,34 @@
 [wlbc19]: {{ path_wlbc }}/wlbc19.mp4
 [wlbc20]: {{ path_wlbc }}/wlbc20.mp4
 
+# 嵌入式Linux之ARM体系结构与编程阶段
+### ARM开发板基础知识
+1. [从零开始认识开发板1][arm_basic1]
+2. [从零开始认识开发板2][arm_basic2]
+3. [从零开始认识开发板3][arm_basic3]
+4. [从零开始认识开发板4][arm_basic4]
+5. [从零开始认识开发板5][arm_basic5]
+6. [ARM准备工作及熟悉开发板1][arm_basic6]
+7. [ARM准备工作及熟悉开发板2][arm_basic7]
+8. [ARM准备工作及熟悉开发板3][arm_basic8]
+9. [ARM准备工作及熟悉开发板4][arm_basic9]
+10. [原理图及电路图1][arm_basic10]
+11. [原理图及电路图2][arm_basic11]
+12. [原理图及电路图3][arm_basic12]
+
+[arm_basic1]: {{ path_arm }}/arm_basic1.mp4
+[arm_basic2]: {{ path_arm }}/arm_basic2.mp4
+[arm_basic3]: {{ path_arm }}/arm_basic3.mp4
+[arm_basic4]: {{ path_arm }}/arm_basic4.mp4
+[arm_basic5]: {{ path_arm }}/arm_basic5.mp4
+[arm_basic6]: {{ path_arm }}/arm_basic6.mp4
+[arm_basic7]: {{ path_arm }}/arm_basic7.mp4
+[arm_basic8]: {{ path_arm }}/arm_basic8.mp4
+[arm_basic9]: {{ path_arm }}/arm_basic9.mp4
+[arm_basic10]: {{ path_arm }}/arm_basic10.mp4
+[arm_basic11]: {{ path_arm }}/arm_basic11.mp4
+[arm_basic12]: {{ path_arm }}/arm_basic12.mp4
+
 # 嵌入式Linux底层系统开发阶段
 ### 探寻嵌入式系统移植的世界
 1. [序言][porting1]

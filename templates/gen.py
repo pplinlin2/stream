@@ -6,6 +6,7 @@ from jinja2 import Template
 path = {
 	'path_line':     '../line', 
 	'path_wlbc':     '../wlbc', 
+	'path_arm':      '../arm_basic', 
 	'path_porting':  '../porting_base', 
 	'path_fs':       '../fs', 
 	'path_driver':   '../linux_driver_basic', 
