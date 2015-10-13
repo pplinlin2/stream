@@ -132,6 +132,69 @@
 [arm_basic11]: {{ path_arm }}/arm_basic11.mp4
 [arm_basic12]: {{ path_arm }}/arm_basic12.mp4
 
+### ARM汇编语言
+1. [ARM世界][arm_asm1]
+2. [开发环境搭建1][arm_asm2]
+3. [开发环境搭建2][arm_asm3]
+4. [补充:Linux装Sourceinsight][arm_asm4]
+5. [补充:MiniTool烧写开发板-11.30更新工具][arm_asm5]
+6. [ARM体系结构-学习方法][arm_asm6]
+7. [ARM体系结构-处理器和名词1][arm_asm7]
+8. [ARM体系结构-处理器和名词2][arm_asm8]
+9. [ARM体系结构-工具和交叉工具链][arm_asm9]
+10. [处理器模式和片内寄存器1][arm_asm10]
+11. [处理器模式和片内寄存器2][arm_asm11]
+12. [处理器模式和片内寄存器3][arm_asm12]
+13. [处理器模式和片内寄存器4][arm_asm13]
+14. [ARM汇编寻址模式1][arm_asm14]
+15. [ARM汇编寻址模式2][arm_asm15]
+16. [ARM汇编寻址模式3][arm_asm16]
+17. [ARM汇编算数操作1][arm_asm17]
+18. [ARM汇编算数操作2][arm_asm18]
+19. [ARM汇编算数操作3][arm_asm19]
+20. [ARM汇编算数操作4][arm_asm20]
+21. [ARM汇编内存操作1][arm_asm21]
+22. [ARM汇编内存操作2][arm_asm22]
+23. [跳转指令及其它1][arm_asm23]
+24. [跳转指令及其它2][arm_asm24]
+25. [ARM汇编伪指令1][arm_asm25]
+26. [ARM汇编伪指令2][arm_asm26]
+27. [ARM汇编伪指令3][arm_asm27]
+28. [ARM汇编伪指令4][arm_asm28]
+29. [混合编程1][arm_asm29]
+30. [混合编程2][arm_asm30]
+
+[arm_asm1]: {{ path_asm }}/arm_asm1.mp4
+[arm_asm2]: {{ path_asm }}/arm_asm2.mp4
+[arm_asm3]: {{ path_asm }}/arm_asm3.mp4
+[arm_asm4]: {{ path_asm }}/arm_asm4.mp4
+[arm_asm5]: {{ path_asm }}/arm_asm5.mp4
+[arm_asm6]: {{ path_asm }}/arm_asm6.mp4
+[arm_asm7]: {{ path_asm }}/arm_asm7.mp4
+[arm_asm8]: {{ path_asm }}/arm_asm8.mp4
+[arm_asm9]: {{ path_asm }}/arm_asm9.mp4
+[arm_asm10]: {{ path_asm }}/arm_asm10.mp4
+[arm_asm11]: {{ path_asm }}/arm_asm11.mp4
+[arm_asm12]: {{ path_asm }}/arm_asm12.mp4
+[arm_asm13]: {{ path_asm }}/arm_asm13.mp4
+[arm_asm14]: {{ path_asm }}/arm_asm14.mp4
+[arm_asm15]: {{ path_asm }}/arm_asm15.mp4
+[arm_asm16]: {{ path_asm }}/arm_asm16.mp4
+[arm_asm17]: {{ path_asm }}/arm_asm17.mp4
+[arm_asm18]: {{ path_asm }}/arm_asm18.mp4
+[arm_asm19]: {{ path_asm }}/arm_asm19.mp4
+[arm_asm20]: {{ path_asm }}/arm_asm20.mp4
+[arm_asm21]: {{ path_asm }}/arm_asm21.mp4
+[arm_asm22]: {{ path_asm }}/arm_asm22.mp4
+[arm_asm23]: {{ path_asm }}/arm_asm23.mp4
+[arm_asm24]: {{ path_asm }}/arm_asm24.mp4
+[arm_asm25]: {{ path_asm }}/arm_asm25.mp4
+[arm_asm26]: {{ path_asm }}/arm_asm26.mp4
+[arm_asm27]: {{ path_asm }}/arm_asm27.mp4
+[arm_asm28]: {{ path_asm }}/arm_asm28.mp4
+[arm_asm29]: {{ path_asm }}/arm_asm29.mp4
+[arm_asm30]: {{ path_asm }}/arm_asm30.mp4
+
 # 嵌入式Linux底层系统开发阶段
 ### 探寻嵌入式系统移植的世界
 1. [序言][porting1]
