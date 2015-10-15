@@ -195,6 +195,61 @@
 [arm_asm29]: {{ path_asm }}/arm_asm29.mp4
 [arm_asm30]: {{ path_asm }}/arm_asm30.mp4
 
+### ARM Bootloader开发
+1. [bootloader概述1][bootloader1]
+2. [bootloader概述2][bootloader2]
+3. [bootloader概述3][bootloader3]
+4. [bootloader概述4][bootloader4]
+5. [bootloader概述5][bootloader5]
+6. [C5工程搭建Makefile1][bootloader6]
+7. [C5工程搭建Makefile2][bootloader7]
+8. [C5工程搭建Makefile3][bootloader8]
+9. [工程搭建链接脚本录像1][bootloader9]
+10. [工程搭建链接脚本录像2][bootloader10]
+11. [工程搭建C代码点灯录像1][bootloader11]
+12. [工程搭建C代码点灯录像2][bootloader12]
+13. [工程搭建C代码点灯录像3][bootloader13]
+14. [通信模型介绍录像1][bootloader14]
+15. [通信模型介绍录像2][bootloader15]
+16. [UART协议介绍录像1][bootloader16]
+17. [UART协议介绍录像2][bootloader17]
+18. [UART协议介绍录像3][bootloader18]
+19. [UART控制器介绍录像1][bootloader19]
+20. [UART控制器介绍录像2][bootloader20]
+21. [通过串口发送一个字符录像1][bootloader21]
+22. [通过串口发送一个字符录像2][bootloader22]
+23. [通过串口发送一个字符录像3][bootloader23]
+24. [通过串口发送一个字符录像4][bootloader24]
+25. [通过串口发送一个字符串1][bootloader25]
+26. [通过串口发送一个字符串2][bootloader26]
+
+[bootloader1]: {{ path_bootloader }}/1.mp4
+[bootloader2]: {{ path_bootloader }}/2.mp4
+[bootloader3]: {{ path_bootloader }}/3.mp4
+[bootloader4]: {{ path_bootloader }}/4.mp4
+[bootloader5]: {{ path_bootloader }}/5.mp4
+[bootloader6]: {{ path_bootloader }}/6.mp4
+[bootloader7]: {{ path_bootloader }}/7.mp4
+[bootloader8]: {{ path_bootloader }}/8.mp4
+[bootloader9]: {{ path_bootloader }}/9.mp4
+[bootloader10]: {{ path_bootloader }}/10.mp4
+[bootloader11]: {{ path_bootloader }}/11.mp4
+[bootloader12]: {{ path_bootloader }}/12.mp4
+[bootloader13]: {{ path_bootloader }}/13.mp4
+[bootloader14]: {{ path_bootloader }}/14.mp4
+[bootloader15]: {{ path_bootloader }}/15.mp4
+[bootloader16]: {{ path_bootloader }}/16.mp4
+[bootloader17]: {{ path_bootloader }}/17.mp4
+[bootloader18]: {{ path_bootloader }}/18.mp4
+[bootloader19]: {{ path_bootloader }}/19.mp4
+[bootloader20]: {{ path_bootloader }}/20.mp4
+[bootloader21]: {{ path_bootloader }}/21.mp4
+[bootloader22]: {{ path_bootloader }}/22.mp4
+[bootloader23]: {{ path_bootloader }}/23.mp4
+[bootloader24]: {{ path_bootloader }}/24.mp4
+[bootloader25]: {{ path_bootloader }}/25.mp4
+[bootloader26]: {{ path_bootloader }}/26.mp4
+
 # 嵌入式Linux底层系统开发阶段
 ### 探寻嵌入式系统移植的世界
 1. [序言][porting1]

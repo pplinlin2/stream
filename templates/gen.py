@@ -4,19 +4,20 @@ import pypandoc
 from jinja2 import Template
 
 path = {
-	'path_line':     '../line', 
-	'path_wlbc':     '../wlbc', 
-	'path_arm':      '../arm_basic', 
-	'path_asm':      '../arm_asm', 
-	'path_porting':  '../porting_base', 
-	'path_fs':       '../fs', 
-	'path_driver':   '../linux_driver_basic', 
-	'path_advanced': '../linux_driver_advanced', 
-	'path_input':    '../input', 
-	'path_usb':      '../usb', 
-	'path_wk':       '../wk', 
-	'path_tool':     '../toolchain', 
-	'path_io':       '../io', 
+	'path_line':       '../line', 
+	'path_wlbc':       '../wlbc', 
+	'path_arm':        '../arm_basic', 
+	'path_asm':        '../arm_asm', 
+	'path_bootloader': '../bootloader', 
+	'path_porting':    '../porting_base', 
+	'path_fs':         '../fs', 
+	'path_driver':     '../linux_driver_basic', 
+	'path_advanced':   '../linux_driver_advanced', 
+	'path_input':      '../input', 
+	'path_usb':        '../usb', 
+	'path_wk':         '../wk', 
+	'path_tool':       '../toolchain', 
+	'path_io':         '../io', 
 }
 
 with open('tables.txt', 'r') as f:
